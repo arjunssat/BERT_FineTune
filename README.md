@@ -6,9 +6,7 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-    <title>BERT FineTune</title>
-</head>
+
 <body>
     <div>
         <a href="https://raw.githubusercontent.com/arjunssat/BERT_FineTune/main/BERT_Fine_Tuning_sentenced_with_PyTorch.ipynb">
