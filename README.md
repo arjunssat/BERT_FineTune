@@ -18,7 +18,7 @@ The Corpus of Linguistic Acceptability (CoLA) dataset for single sentence classi
 
 <h2>2) BERT Q&A</h2>
 <br>
-<a>A system that can fairly & quickly find the most relevant documents from our dataset and can then pull out the span of text most likely to answer our question. Utilizing the BERT model we have created a simple Q&A system.</a>
+<a>A system that can fairly & quickly find the most relevant document's from our dataset and can then pull out the span of text most likely to answer our question. Utilizing the BERT model we have created a simple Q&A system.</a>
 
 <!DOCTYPE html>
 <html>
